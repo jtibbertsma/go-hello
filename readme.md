@@ -5,7 +5,7 @@ This repository exists so that I can test out the Go package system. Apparently 
 So, once I push this to github, anybody should be able to do
 
 ```bash
-$ go get github.com/jtibbertsma/go-hello
+$ go get github.com/jtibbertsma/go-hello/hello_go
 $ go install github.com/jtibbertsma/go-hello/hello_go
 $ hello_go
 ```
